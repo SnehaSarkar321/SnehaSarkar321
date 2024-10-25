@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-<img align="right" alt="coding" width="400" src="https://komarev.com/ghpvc/?username=swati-tanu&label=Profile%20views&color=0e75b6&style=flat">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-tanu&label=Profile%20views&color=0e75b6&style=flat" alt="swati-tanu" /> </p>
 
 - 🔭 Freshly Graduated, now I’m currently upskilling myself in Full Stack Java Development
   
