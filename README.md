@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
    <a href="https://springboot.io/" target="_blank" rel="noreferrer"> <img src="https://alex-bezverkhniy.github.io/images/spring-boot/spring-boot-logo.png" alt="springboot" width="80" height="40"/> </a>
   <a href="https://jdbc.io/" target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/a/ocom/img/jdbc.svg" alt="jdbc" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png?20161215215523" alt="hibernate" width="80" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQHLYmtJRpByHw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1684745697758?e=1735171200&v=beta&t=Teq4FguQLB_fZf_FZ4k1DW-3Gz1JoMsJbBUU2ep2Zic" alt="hibernate" width="80" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://huongdanjava.com/wp-content/uploads/2022/02/spring-data.png" alt="hibernate" width="80" height="40"/> </a>
  </p>
 
 
