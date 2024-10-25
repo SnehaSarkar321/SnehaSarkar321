@@ -46,14 +46,14 @@ Here are some ideas to get you started: -->
 <br/>
   <h2 align="center">⚡ Statistics ⚡</h2>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasarkar321&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="thepriyanshuburman" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasarkar321&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="snehas" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10)
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10" alt="snehas" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10" alt="snehas" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10" alt="snehas" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SnehaSarkar321&theme=react&utcOffset=8" alt="snehas" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10" alt="snehas" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SnehaSarkar321&theme=react&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10)
-</p>
+
 
