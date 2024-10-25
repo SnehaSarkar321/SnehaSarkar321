@@ -4,9 +4,9 @@
 **SnehaSarkar321/SnehaSarkar321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
-<img align="center" alt="Coding" width="250" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-
+<p align="center">
+  <img  alt="Coding" width="250" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+</p>
 
 - 🔭 Freshly Graduated, now I’m currently upskilling myself in Full Stack Java Development
   
