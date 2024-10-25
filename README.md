@@ -28,7 +28,7 @@ Here are some ideas to get you started: -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
    <a href="https://springboot.io/" target="_blank" rel="noreferrer"> <img src="https://alex-bezverkhniy.github.io/images/spring-boot/spring-boot-logo.png" alt="springboot" width="80" height="40"/> </a>
   <a href="https://jdbc.io/" target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/a/ocom/img/jdbc.svg" alt="jdbc" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/136/550/png-transparent-hibernate-hd-logo-thumbnail.png" alt="springboot" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png?20161215215523" alt="hibernate" width="40" height="40"/> </a>
  </p>
 
 
