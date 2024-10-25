@@ -42,4 +42,16 @@ Here are some ideas to get you started: -->
     <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/893px-Apache_Tomcat_logo.svg.png?20230726204155" alt="tomcat" width="40" height="40"/> </a>
     
 </p>
+<br/>
+  <h2 align="center">⚡ Statistics ⚡</h2>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasarkar321&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="thepriyanshuburman" /></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SnehaSarkar321&theme=react&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SnehaSarkar321&theme=react&rank_icon=github&border_radius=10)
 
