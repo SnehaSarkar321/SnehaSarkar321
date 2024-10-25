@@ -32,7 +32,9 @@ Here are some ideas to get you started: -->
  </p>
 <h3 align="left">Tools</h3>
   <p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="VsCode" width="40" height="40"/> </a>
+    <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" alt="ecllipse" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  
+    
 </p>
 
