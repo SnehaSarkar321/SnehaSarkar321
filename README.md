@@ -35,7 +35,7 @@ Here are some ideas to get you started: -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="VsCode" width="40" height="40"/> </a>
     <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" alt="ecllipse" width="40" height="40"/> </a> 
     <a href="https://spring.io/tools" target="_blank" rel="noreferrer"> <img src="https://spring.io/img/projects/spring-tool.svg" height="40"/> </a> 
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/743/345/png-transparent-bash-git-computer-icons-installation-command-line-interface-github-text-logo-windows-thumbnail.png" alt="gitbash" width="40" height="40"/> </a> 
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="gitbash" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     
 </p>
